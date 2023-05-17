@@ -1,0 +1,2 @@
+Homework,High
+Laundry,Low
